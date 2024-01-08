@@ -5,7 +5,7 @@
 <b>Microsoft Azure</b>
   - [Azure: How to Creating a Virtual Machine on Azure](https://github.com/gamalacree/virtual-machine)
   - [Azure: Installing and Configure the File Server Role](https://github.com/gamalacree/file-server)
-  - [Azure: Configuring On-Premises Active Directory within a Azure Virutal Machine](https://github.com/gamalacree/configure-ad)
+  - [Azure: Configuring On-Premises Active Directory within a Azure Virtual Machine](https://github.com/gamalacree/configure-ad)
 
 <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/gamalacree/osticket-prereqs)
