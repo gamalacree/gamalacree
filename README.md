@@ -12,3 +12,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/gamalacree/post-install)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/gamalacree/ticket-lifecycle)
 
+- <b>Virtual Private Networks (VPN) </b>
+  - [Proton VPN: Setup and Usage](https://github.com/gamalacree/proton-setup)
+
+
