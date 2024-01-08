@@ -3,14 +3,14 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [How to Creating a Virtual Machine on Azure](https://github.com/gamalacree/virtual-machine)
+  - [Installing and Configure the File Server Role](https://github.com/gamalacree/install-and-configure-the-file-server-role)
+  - [Configuring On-Premises Active Directory within a Azure Virutal Machine](https://github.com/gamalacree/configure-ad)
 
 <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-
+  - [osTicket: Prerequisites and Installation](https://github.com/roslyndwilliams/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/roslyndwilliams/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/roslyndwilliams/ticket-lifecycle)
 
 <h2>🤳Connect with me:</h2>
 
