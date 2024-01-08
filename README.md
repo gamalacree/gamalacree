@@ -3,9 +3,9 @@
 <h2>👨‍💻 Information Technology Process:</h2>
 
 <b>Microsoft Azure</b>
-  - [How to Creating a Virtual Machine on Azure](https://github.com/gamalacree/virtual-machine)
-  - [Installing and Configure the File Server Role](https://github.com/gamalacree/file-server)
-  - [Configuring On-Premises Active Directory within a Azure Virutal Machine](https://github.com/gamalacree/configure-ad)
+  - [Azure: How to Creating a Virtual Machine on Azure](https://github.com/gamalacree/virtual-machine)
+  - [Azure: Installing and Configure the File Server Role](https://github.com/gamalacree/file-server)
+  - [Azure: Configuring On-Premises Active Directory within a Azure Virutal Machine](https://github.com/gamalacree/configure-ad)
 
 <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/gamalacree/osticket-prereqs)
