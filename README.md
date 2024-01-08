@@ -9,6 +9,6 @@
 
 <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/gamalacree/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/gamalacree/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/gamalacree/post-install)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/gamalacree/ticket-lifecycle)
 
