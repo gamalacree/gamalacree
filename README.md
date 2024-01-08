@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gamal, an <a href="https://linkedin.com/in/gamalacree">Front Desk Professional</a>☺</h1>
+<h1>Hi, I'm Gamal, an <a href="https://linkedin.com/in/gamalacree">IT Front Desk Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Process:</h2>
 
