@@ -1,5 +1,3 @@
-<h1>Hi, I'm Gamal, Information Technology Process</a>☺</h1>
-
 <h2>👨‍💻 Information Technology Process:</h2>
 
 <b>Microsoft Azure</b>
